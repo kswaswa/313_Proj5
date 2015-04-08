@@ -1,2 +1,4 @@
 # 313_Proj5
-This is Proj 5 for CMSC 313.
+Katie Swanson - Proj 5 - CMSC 313
+
+File Info: When year_published is 20, it means it is pointing to nothing, or it is at the end of the linked list.
